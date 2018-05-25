@@ -54,8 +54,8 @@ let coinCounts = (dollarsToCount) => {
     }
     Object.assign(coinCount, { quarters: quarter, dimes: dime, nickels: nickel, pennies: penny });
 
-    console.log("$", dollarsToCount, coinCount)
+    console.log("$", dollarsToCount, "=", coinCount)
 }
 
 coinCounts(1.41);
-coinCounts(1.00)
+coinCounts(1)
