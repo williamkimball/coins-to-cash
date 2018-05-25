@@ -1,0 +1,1 @@
+Two functions, coinCounts() to count the lowest number of coins in a dollar ammount and dollarCount() to get the number of dollars in a pre-existing object with a certain number of coins of each type.
